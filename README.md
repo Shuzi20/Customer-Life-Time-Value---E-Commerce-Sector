@@ -29,3 +29,6 @@ This repository contains the **Customer Lifetime Value (CLV) Analysis** project 
 5. **Customer Segmentation**:
    - Segmented customers into groups like **Best Customers** and **At Risk** based on CLV metrics.
    - Provided actionable recommendations for marketing strategies.
+
+## Acknowledgments
+This project is the result of dedicated analysis and refinement efforts, showcasing robust CLV prediction models and insights into customer behavior. Your feedback and suggestions are welcome!
